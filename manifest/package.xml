@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>BoatSearchResults</members>
+        <members>BoatReviews</members>
+        <name>ApexClass</name>
+    </types>
+   
+    <types>
+        <members>FormSubmit</members>
+        <members>BoatSelect</members>
+        <members>BoatSelected</members>
+        <members>BoatReviewAdded</members>
+        <members>PlotMapMarker</members>
+
+        <members>BoatSearchForm</members>
+        <members>BoatSearchResults</members>
+        <members>BoatSearch</members>
+        <members>FriendswithBoats</members>
+        <members>BoatTile</members>
+        <members>BoatDetail</members>
+        <members>BoatDetails</members>
+        <members>AddBoatReview</members> 
+        <members>BoatReviews</members>   
+        <members>FiveStarRating</members>       
+        <members>Map</members> 
+        <name>AuraDefinitionBundle</name>
+    </types>
+   
+    <version>51.0</version>
+</Package>
